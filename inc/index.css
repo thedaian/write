@@ -1,0 +1,49 @@
+body {
+	width: 60%;
+	margin: 10px auto 0;
+	color: #333;
+	background-image: url('beta.png');
+	background-repeat: no-repeat;
+	background-position: 80% 0;
+}
+
+h1, h2 {
+	margin: 5px auto;
+}
+
+h1 {
+	width: 365px;
+}
+
+h2 {
+	width: 220px;
+}
+
+p {
+	margin: 0 10px 0 20px;
+}
+
+table {
+	width: 80%;
+	margin: 5px auto;
+}
+
+a.new {
+	padding-left: 40px;
+}
+
+table {
+	border: 1px solid #333;
+}
+
+tr:nth-child(2n + 1) {
+	background-color: #bee;
+}
+
+th {
+	background-color: #add;
+}
+
+td {
+	text-align: center;
+}
